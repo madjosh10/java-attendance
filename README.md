@@ -1,0 +1,2 @@
+# java-attendance
+small program
